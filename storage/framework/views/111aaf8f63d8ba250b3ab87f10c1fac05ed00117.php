@@ -1,0 +1,1 @@
+<?php /**PATH /Volumes/my-works/laravel/whatsserver/resources/views/layouts/main/footer.blade.php ENDPATH**/ ?>

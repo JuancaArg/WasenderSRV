@@ -1,0 +1,1 @@
+<?php /**PATH /Volumes/my-works/laravel/whatsserver/resources/views/user/whatsapp/bulk/single.blade.php ENDPATH**/ ?>
